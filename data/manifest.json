@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 4,
+  "game": "Steal a Brainrot",
+  "databaseFile": "azertox_db.lua",
+  "databaseFormat": "lua-return-table",
+  "databaseRecords": 24146,
+  "databaseShards": 1,
+  "shards": [
+    {
+      "file": "azertox_db.lua",
+      "format": "lua",
+      "count": 24146,
+      "bytes": 2111640
+    }
+  ],
+  "recordFormat": {
+    "entry": "riddles",
+    "question": "q",
+    "answer": "a[1]",
+    "oneAnswerPerQuestion": true
+  },
+  "deduplication": "canonical-question-one-answer",
+  "generatedBy": "tools/build_single_riddle_db.js"
+}

@@ -1,0 +1,6 @@
+*.json.local
+*.secret
+*.key
+cookies.json
+webhooks.json
+node_modules/

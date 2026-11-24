@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 4,
+  "name": "azertox-code-redeemer",
+  "game": "Steal a Brainrot",
+  "script": "code/azertoxbest.lua",
+  "databaseManifest": "data/manifest.json",
+  "databaseFile": "data/azertox_db.lua",
+  "databaseRecords": 24146,
+  "apiKeysIncluded": false,
+  "entrypoint": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/azertox420-svg/Azertoxsniper/main/code/azertoxbest.lua\"))()"
+}
